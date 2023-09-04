@@ -3,7 +3,7 @@
     "babel-register": "^6.5.3",
     "express": "^4.13.5",
     "mocha": "^2.4.7",
-    "parse-server": "2.2.18",
+    "parse-server": "5.5.5",
     "chai": "^3.5.2"
   },
   "scripts": {
